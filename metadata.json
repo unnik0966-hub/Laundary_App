@@ -1,0 +1,6 @@
+{
+  "name": "FreshFold",
+  "description": "Fresh Clothes. Fresh Life. Premium Laundry Pickup & Delivery mobile application with dynamic pricing, order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
